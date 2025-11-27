@@ -1,0 +1,13 @@
+overhead_pieces-5/
+dataset.py
+__pycache__/
+*.pyc
+.vscode/
+.env
+logs/
+results/
+checkpoints/
+data/
+*.log
+.idea/
+detection/models/
