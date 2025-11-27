@@ -10,4 +10,3 @@ checkpoints/
 data/
 *.log
 .idea/
-detection/models/
